@@ -9,3 +9,4 @@
 <b>bublesort.pas</b> - пузырьковая сортировка<br>
 <b>selsort.pas</b> - сортировка выбором<br>
 <b>binserch.pas</b> - бинарный поиск<br>
+<b>xoarsort.pas</b> - сортировка Хоара<br>
