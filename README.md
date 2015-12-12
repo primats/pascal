@@ -8,3 +8,4 @@
 <b>primes.pas</b> - вывод всех простых чисел до 500<br>
 <b>bublesort.pas</b> - пузырьковая сортировка<br>
 <b>selsort.pas</b> - сортировка выбором<br>
+<b>binserch.pas</b> - бинарный поиск<br>
