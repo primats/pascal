@@ -10,3 +10,4 @@
 <b>selsort.pas</b> - сортировка выбором<br>
 <b>binserch.pas</b> - бинарный поиск<br>
 <b>xoarsort.pas</b> - сортировка Хоара<br>
+<b>factorial.pas</b> - вычисление факториала рекурсией<br>
