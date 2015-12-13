@@ -11,4 +11,7 @@
 <b>binserch.pas</b> - бинарный поиск<br>
 <b>xoarsort.pas</b> - сортировка Хоара<br>
 <b>factorial.pas</b> - вычисление факториала рекурсией<br>
-<b>sheikersort.pas</b> - шейкерная сортировка массива<br>
+<b>sheikersort.pas</b> - шейкерная сортировка массива<br><bt>
+и многое другое....
+
+
